@@ -21,3 +21,4 @@ o	Location: Differences in neighborhood desirability, proximity to amenities, an
 o	Time of Sale: Adjustments for market changes that have occurred since the comparable property was sold.
 Example of Adjustment: If a comparable property sold for N50 million but has a slightly larger land size than the subject property, a downward adjustment would be made to its sale price to reflect this difference.
 4.	Reconcile Adjusted Values: After making adjustments to several comparables, reconcile the adjusted sale prices to arrive at an estimated value range for the subject property. A weighted average may be used, giving more weight to the most similar and reliable comparables.
+![image alt](https://github.com/OgbecheRuth/Property-Valuation/blob/ba8b897a29127dd7db1cca51e03514b1835f8da6/1755289705671.jpg)
