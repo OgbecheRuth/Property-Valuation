@@ -5,7 +5,7 @@ Property valuation, also known as property appraisal, is the process of determin
  Without a dependable way to assess a property's true value, financial institutions face a high risk of loan defaults. Overvalued properties can lead to excessive lending, while undervalued properties limit the amount of financing available. This uncertainty discourages both local and foreign investors from participating in the real estate sector, which is a major driver of economic growth.
  #### Tools
  Valuation professionals use a mix of traditional methods and modern technological tools to assess property value. The choice of tool depends on the type of property, its purpose, and the available data. This includes laser measuring devices, Automated Valuation Models (AVMs), smartphones with LiDAR scanners, and floor plan apps like CubiCasa that can automatically generate blueprints and square footage calculations. 
-![image alt](https://raw.githubusercontent.com/OgbecheRuth/Property-Valuation/42aad539353b05ccaccb4c50dc9478c830296b3a/1755289705647.jpg) 
+![image alt](https://github.com/OgbecheRuth/Property-Valuation/blob/264ef156008919de2e4a5e7c9796f8b389fc33db/1755289705647.jpg) 
 ##### Sales Comparison Approach (Market Approach)
 This is the most widely used method for valuing residential properties and land. It involves comparing the subject property with recently sold similar properties (comparable) in the same or a comparable location. Adjustments are made to the sale prices of the comparable to account for differences in characteristics such as size, age, condition, features, and location.
 ###### Steps Involved:
